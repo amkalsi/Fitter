@@ -1,0 +1,47 @@
+# Datacard produced by CombineHarvester with git status: CombineHarvester-v15.9-dirty
+imax    1 number of bins
+jmax    5 number of processes minus 1
+kmax    * number of nuisance parameters
+--------------------------------------------------------------------------------
+shapes * htt_em_0_13TeV ../common/htt_em.input.root htt_em_0_13TeV/$PROCESS htt_em_0_13TeV/$PROCESS_$SYSTEMATIC
+shapes ggH htt_em_0_13TeV ../common/htt_em.input.root htt_em_0_13TeV/ggH$MASS htt_em_0_13TeV/ggH$MASS_$SYSTEMATIC
+--------------------------------------------------------------------------------
+bin          htt_em_0_13TeV  
+observation  715.0           
+--------------------------------------------------------------------------------
+bin                                               htt_em_0_13TeV  htt_em_0_13TeV  htt_em_0_13TeV  htt_em_0_13TeV  htt_em_0_13TeV  htt_em_0_13TeV  
+process                                           ZTT             W               QCD             TT              VV              ggH             
+process                                           1               2               3               4               5               0               
+rate                                              296             18.37           36.08           220.3           105.3           47.98           
+--------------------------------------------------------------------------------
+CMS_TT_xs_13TeV                           lnN     -               -               -               1.08            -               -               
+CMS_VV_xs_13TeV                           lnN     -               -               -               -               1.15            -               
+CMS_ZTT_xs_13TeV                          lnN     1.12            -               -               -               -               -               
+CMS_em_QCD_LT_13TeV                       lnN     -               -               1.37            -               -               -               
+CMS_em_W_LT_13TeV                         lnN     -               1.41            -               -               -               -               
+CMS_htt_em_emu_inclusive_13TeV_QCD_bin_10 shape   -               -               1               -               -               -               
+CMS_htt_em_emu_inclusive_13TeV_QCD_bin_11 shape   -               -               1               -               -               -               
+CMS_htt_em_emu_inclusive_13TeV_QCD_bin_12 shape   -               -               1               -               -               -               
+CMS_htt_em_emu_inclusive_13TeV_QCD_bin_13 shape   -               -               1               -               -               -               
+CMS_htt_em_emu_inclusive_13TeV_QCD_bin_14 shape   -               -               1               -               -               -               
+CMS_htt_em_emu_inclusive_13TeV_QCD_bin_15 shape   -               -               1               -               -               -               
+CMS_htt_em_emu_inclusive_13TeV_QCD_bin_16 shape   -               -               1               -               -               -               
+CMS_htt_em_emu_inclusive_13TeV_QCD_bin_17 shape   -               -               1               -               -               -               
+CMS_htt_em_emu_inclusive_13TeV_TT_bin_18  shape   -               -               -               1               -               -               
+CMS_htt_em_emu_inclusive_13TeV_ZTT_bin_1  shape   1               -               -               -               -               -               
+CMS_htt_em_emu_inclusive_13TeV_ZTT_bin_2  shape   1               -               -               -               -               -               
+CMS_htt_em_emu_inclusive_13TeV_ZTT_bin_3  shape   1               -               -               -               -               -               
+CMS_htt_em_emu_inclusive_13TeV_ZTT_bin_4  shape   1               -               -               -               -               -               
+CMS_htt_em_emu_inclusive_13TeV_ZTT_bin_5  shape   1               -               -               -               -               -               
+CMS_htt_em_emu_inclusive_13TeV_ZTT_bin_6  shape   1               -               -               -               -               -               
+CMS_htt_em_emu_inclusive_13TeV_ZTT_bin_7  shape   1               -               -               -               -               -               
+CMS_htt_em_emu_inclusive_13TeV_ZTT_bin_8  shape   1               -               -               -               -               -               
+CMS_htt_em_emu_inclusive_13TeV_ZTT_bin_9  shape   1               -               -               -               -               -               
+CMS_scale_btag_13TeV                      shape   1               1               1               1               1               1               
+CMS_scale_j_13TeV                         shape   1               1               1               1               1               1               
+EES32                                     lnN     1.01            -               -               1.01            -               -               
+ElID31                                    lnN     -               1.01            -               -               -               -               
+ElID32                                    lnN     1.01            -               -               -               -               -               
+ElID33                                    lnN     -               -               -               1.01            -               -               
+Trig10                                    lnN     1.01            1.01            -               1.01            1.01            1.01            
+lumi                                      lnN     1.05            1.05            -               1.05            1.05            1.05            
