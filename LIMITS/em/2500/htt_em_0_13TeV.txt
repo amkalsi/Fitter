@@ -12,7 +12,7 @@ observation  715.0
 bin                                               htt_em_0_13TeV  htt_em_0_13TeV  htt_em_0_13TeV  htt_em_0_13TeV  htt_em_0_13TeV  htt_em_0_13TeV  
 process                                           ZTT             W               QCD             TT              VV              ggH             
 process                                           1               2               3               4               5               0               
-rate                                              296             18.37           36.08           220.3           105.3           52.15           
+rate                                              296             18.37           36.08           220.3           105.3           0.2889          
 --------------------------------------------------------------------------------
 CMS_TT_xs_13TeV                           lnN     -               -               -               1.08            -               -               
 CMS_VV_xs_13TeV                           lnN     -               -               -               -               1.15            -               
