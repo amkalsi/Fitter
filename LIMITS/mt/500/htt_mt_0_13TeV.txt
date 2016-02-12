@@ -1,0 +1,45 @@
+# Datacard produced by CombineHarvester with git status: CombineHarvester-v15.9-dirty
+imax    1 number of bins
+jmax    5 number of processes minus 1
+kmax    * number of nuisance parameters
+--------------------------------------------------------------------------------
+shapes * htt_mt_0_13TeV ../common/htt_mt.input.root htt_mt_0_13TeV/$PROCESS htt_mt_0_13TeV/$PROCESS_$SYSTEMATIC
+shapes ggH htt_mt_0_13TeV ../common/htt_mt.input.root htt_mt_0_13TeV/ggH$MASS htt_mt_0_13TeV/ggH$MASS_$SYSTEMATIC
+--------------------------------------------------------------------------------
+bin          htt_mt_0_13TeV  
+observation  2946.0          
+--------------------------------------------------------------------------------
+bin                                                 htt_mt_0_13TeV  htt_mt_0_13TeV  htt_mt_0_13TeV  htt_mt_0_13TeV  htt_mt_0_13TeV  htt_mt_0_13TeV  
+process                                             ZTT             W               QCD             TT              VV              ggH             
+process                                             1               2               3               4               5               0               
+rate                                                1055            1718            122.9           36.67           37.6            537.8           
+--------------------------------------------------------------------------------
+CMS_htt_mt_eleTau_inclusive_13TeV_QCD_bin_9 shape   -               -               1               -               -               -               
+CMS_htt_mt_eleTau_inclusive_13TeV_W_bin_1   shape   -               1               -               -               -               -               
+CMS_htt_mt_eleTau_inclusive_13TeV_W_bin_10  shape   -               1               -               -               -               -               
+CMS_htt_mt_eleTau_inclusive_13TeV_W_bin_11  shape   -               1               -               -               -               -               
+CMS_htt_mt_eleTau_inclusive_13TeV_W_bin_12  shape   -               1               -               -               -               -               
+CMS_htt_mt_eleTau_inclusive_13TeV_W_bin_13  shape   -               1               -               -               -               -               
+CMS_htt_mt_eleTau_inclusive_13TeV_W_bin_14  shape   -               1               -               -               -               -               
+CMS_htt_mt_eleTau_inclusive_13TeV_W_bin_15  shape   -               1               -               -               -               -               
+CMS_htt_mt_eleTau_inclusive_13TeV_W_bin_16  shape   -               1               -               -               -               -               
+CMS_htt_mt_eleTau_inclusive_13TeV_W_bin_17  shape   -               1               -               -               -               -               
+CMS_htt_mt_eleTau_inclusive_13TeV_W_bin_18  shape   -               1               -               -               -               -               
+CMS_htt_mt_eleTau_inclusive_13TeV_W_bin_2   shape   -               1               -               -               -               -               
+CMS_htt_mt_eleTau_inclusive_13TeV_W_bin_3   shape   -               1               -               -               -               -               
+CMS_htt_mt_eleTau_inclusive_13TeV_W_bin_4   shape   -               1               -               -               -               -               
+CMS_htt_mt_eleTau_inclusive_13TeV_W_bin_5   shape   -               1               -               -               -               -               
+CMS_htt_mt_eleTau_inclusive_13TeV_W_bin_6   shape   -               1               -               -               -               -               
+CMS_htt_mt_eleTau_inclusive_13TeV_W_bin_7   shape   -               1               -               -               -               -               
+CMS_htt_mt_eleTau_inclusive_13TeV_W_bin_8   shape   -               1               -               -               -               -               
+Close01                                     lnN     -               1.08            -               -               -               -               
+Close05                                     lnN     -               -               1.15            -               -               -               
+MMS02                                       lnN     1.01            -               -               1.01            -               -               
+TES02                                       lnN     1.07            -               -               -               -               -               
+TES03                                       lnN     -               -               -               1.09            -               -               
+TaID00                                      lnN     1.06            1.06            -               -               -               -               
+TaID03                                      lnN     -               -               -               1.06            -               -               
+Trig00                                      lnN     1.01            1.01            -               1.01            1.01            1.01            
+bID02                                       lnN     1.03            -               -               -               -               -               
+bID03                                       lnN     -               -               -               1.12            -               -               
+lumi                                        lnN     1.05            1.05            -               1.05            1.05            1.05            

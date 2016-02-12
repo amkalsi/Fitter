@@ -1,0 +1,40 @@
+# Datacard produced by CombineHarvester with git status: CombineHarvester-v15.9-dirty
+imax    1 number of bins
+jmax    5 number of processes minus 1
+kmax    * number of nuisance parameters
+--------------------------------------------------------------------------------
+shapes * htt_tt_0_13TeV ../common/htt_tt.input.root htt_tt_0_13TeV/$PROCESS htt_tt_0_13TeV/$PROCESS_$SYSTEMATIC
+shapes ggH htt_tt_0_13TeV ../common/htt_tt.input.root htt_tt_0_13TeV/ggH$MASS htt_tt_0_13TeV/ggH$MASS_$SYSTEMATIC
+--------------------------------------------------------------------------------
+bin          htt_tt_0_13TeV  
+observation  316.0           
+--------------------------------------------------------------------------------
+bin                                                  htt_tt_0_13TeV  htt_tt_0_13TeV  htt_tt_0_13TeV  htt_tt_0_13TeV  htt_tt_0_13TeV  htt_tt_0_13TeV  
+process                                              ZTT             W               QCD             TT              VV              ggH             
+process                                              1               2               3               4               5               0               
+rate                                                 18.9            2.749           269.5           0               0.4874          379.5           
+--------------------------------------------------------------------------------
+CMS_htt_tt_eleTau_inclusive_13TeV_QCD_bin_10 shape   -               -               1               -               -               -               
+CMS_htt_tt_eleTau_inclusive_13TeV_QCD_bin_11 shape   -               -               1               -               -               -               
+CMS_htt_tt_eleTau_inclusive_13TeV_QCD_bin_12 shape   -               -               1               -               -               -               
+CMS_htt_tt_eleTau_inclusive_13TeV_QCD_bin_13 shape   -               -               1               -               -               -               
+CMS_htt_tt_eleTau_inclusive_13TeV_QCD_bin_14 shape   -               -               1               -               -               -               
+CMS_htt_tt_eleTau_inclusive_13TeV_QCD_bin_15 shape   -               -               1               -               -               -               
+CMS_htt_tt_eleTau_inclusive_13TeV_QCD_bin_16 shape   -               -               1               -               -               -               
+CMS_htt_tt_eleTau_inclusive_13TeV_QCD_bin_17 shape   -               -               1               -               -               -               
+CMS_htt_tt_eleTau_inclusive_13TeV_QCD_bin_18 shape   -               -               1               -               -               -               
+CMS_htt_tt_eleTau_inclusive_13TeV_QCD_bin_7  shape   -               -               1               -               -               -               
+CMS_htt_tt_eleTau_inclusive_13TeV_QCD_bin_8  shape   -               -               1               -               -               -               
+CMS_htt_tt_eleTau_inclusive_13TeV_QCD_bin_9  shape   -               -               1               -               -               -               
+Close21                                      lnN     -               1.37            -               -               -               -               
+Close25                                      lnN     -               -               1.08            -               -               -               
+TES01                                        lnN     -               1.11            -               -               -               -               
+TES02                                        lnN     1.11            -               -               -               -               -               
+TES03                                        lnN     -               -               -               1.11            -               -               
+TaID00                                       lnN     1.12            1.3             -               -               -               -               
+TaID03                                       lnN     -               -               -               1.12            -               -               
+Trig20                                       lnN     -               -               -               -               -               1.21            
+bID20                                        lnN     -               1.1             -               -               -               -               
+bID21                                        lnN     1.03            -               -               -               -               -               
+bID23                                        lnN     -               -               -               1.1             -               -               
+lumi                                         lnN     1.05            1.05            -               1.05            1.05            1.05            
