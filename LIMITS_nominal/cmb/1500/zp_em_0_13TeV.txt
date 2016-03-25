@@ -1,0 +1,50 @@
+# Datacard produced by CombineHarvester with git status: CombineHarvester-v15.9-dirty
+imax    1 number of bins
+jmax    5 number of processes minus 1
+kmax    * number of nuisance parameters
+--------------------------------------------------------------------------------
+shapes * zp_em_0_13TeV ../common/zp_em.input.root zp_em_0_13TeV/$PROCESS zp_em_0_13TeV/$PROCESS_$SYSTEMATIC
+shapes ggH zp_em_0_13TeV ../common/zp_em.input.root zp_em_0_13TeV/ggH$MASS zp_em_0_13TeV/ggH$MASS_$SYSTEMATIC
+--------------------------------------------------------------------------------
+bin          zp_em_0_13TeV   
+observation  728.0           
+--------------------------------------------------------------------------------
+bin                                              zp_em_0_13TeV   zp_em_0_13TeV   zp_em_0_13TeV   zp_em_0_13TeV   zp_em_0_13TeV   zp_em_0_13TeV   
+process                                          ZTT             W               QCD             TT              VV              ggH             
+process                                          1               2               3               4               5               0               
+rate                                             321.2           19.11           30.42           222.8           108.3           3.568           
+--------------------------------------------------------------------------------
+CMS_lumi_13TeV                           lnN     1.046           1.046           -               1.046           1.046           1.046           
+CMS_zp_TT_xs_13TeV                       lnN     -               -               -               1.08            -               -               
+CMS_zp_VV_xs_13TeV                       lnN     -               -               -               -               1.15            -               
+CMS_zp_ZTT_xs_13TeV                      lnN     1.1             -               -               -               -               -               
+CMS_zp_em_QCD_LT_13TeV                   lnN     -               -               1.37            -               -               -               
+CMS_zp_em_W_LT_13TeV                     lnN     -               1.41            -               -               -               -               
+CMS_zp_em_emu_inclusive_13TeV_QCD_bin_11 shape   -               -               1               -               -               -               
+CMS_zp_em_emu_inclusive_13TeV_QCD_bin_17 shape   -               -               1               -               -               -               
+CMS_zp_em_emu_inclusive_13TeV_TT_bin_18  shape   -               -               -               1               -               -               
+CMS_zp_em_emu_inclusive_13TeV_ZTT_bin_1  shape   1               -               -               -               -               -               
+CMS_zp_em_emu_inclusive_13TeV_ZTT_bin_10 shape   1               -               -               -               -               -               
+CMS_zp_em_emu_inclusive_13TeV_ZTT_bin_12 shape   1               -               -               -               -               -               
+CMS_zp_em_emu_inclusive_13TeV_ZTT_bin_13 shape   1               -               -               -               -               -               
+CMS_zp_em_emu_inclusive_13TeV_ZTT_bin_14 shape   1               -               -               -               -               -               
+CMS_zp_em_emu_inclusive_13TeV_ZTT_bin_15 shape   1               -               -               -               -               -               
+CMS_zp_em_emu_inclusive_13TeV_ZTT_bin_16 shape   1               -               -               -               -               -               
+CMS_zp_em_emu_inclusive_13TeV_ZTT_bin_2  shape   1               -               -               -               -               -               
+CMS_zp_em_emu_inclusive_13TeV_ZTT_bin_3  shape   1               -               -               -               -               -               
+CMS_zp_em_emu_inclusive_13TeV_ZTT_bin_4  shape   1               -               -               -               -               -               
+CMS_zp_em_emu_inclusive_13TeV_ZTT_bin_5  shape   1               -               -               -               -               -               
+CMS_zp_em_emu_inclusive_13TeV_ZTT_bin_6  shape   1               -               -               -               -               -               
+CMS_zp_em_emu_inclusive_13TeV_ZTT_bin_7  shape   1               -               -               -               -               -               
+CMS_zp_em_emu_inclusive_13TeV_ZTT_bin_8  shape   1               -               -               -               -               -               
+CMS_zp_em_emu_inclusive_13TeV_ZTT_bin_9  shape   1               -               -               -               -               -               
+CMS_zp_pdf_13TeV                         shape   -               -               -               -               -               1               
+CMS_zp_scale_btag_13TeV                  shape   1               1               1               1               1               1               
+CMS_zp_scale_j_13TeV                     shape   1               1               1               1               1               1               
+EES10                                    lnN     1.01            1.01            -               1.01            1.01            1.01            
+ElID10                                   lnN     1.01            -               -               -               -               1.01            
+ElID11                                   lnN     -               1.01            -               -               -               -               
+ElID13                                   lnN     -               -               -               1.01            1.01            -               
+MMS00                                    lnN     1.01            1.01            -               1.01            1.01            1.01            
+MuID00                                   lnN     1.01            1.01            -               1.01            1.01            1.01            
+Trig10                                   lnN     1.01            1.01            -               1.01            1.01            1.01            
