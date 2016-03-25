@@ -1,0 +1,52 @@
+# Datacard produced by CombineHarvester with git status: CombineHarvester-v15.9-dirty
+imax    1 number of bins
+jmax    5 number of processes minus 1
+kmax    * number of nuisance parameters
+--------------------------------------------------------------------------------
+shapes * zp_tt_0_13TeV ../common/zp_tt.input.root zp_tt_0_13TeV/$PROCESS zp_tt_0_13TeV/$PROCESS_$SYSTEMATIC
+shapes ggH zp_tt_0_13TeV ../common/zp_tt.input.root zp_tt_0_13TeV/ggH$MASS zp_tt_0_13TeV/ggH$MASS_$SYSTEMATIC
+--------------------------------------------------------------------------------
+bin          zp_tt_0_13TeV   
+observation  55.0            
+--------------------------------------------------------------------------------
+bin                                                 zp_tt_0_13TeV   zp_tt_0_13TeV   zp_tt_0_13TeV   zp_tt_0_13TeV   zp_tt_0_13TeV   zp_tt_0_13TeV   
+process                                             ZTT             W               QCD             TT              VV              ggH             
+process                                             1               2               3               4               5               0               
+rate                                                8.438           0.09357         48.72           0               0.4874          73.94           
+--------------------------------------------------------------------------------
+CMS_lumi_13TeV                              lnN     1.046           1.046           -               1.046           1.046           1.046           
+CMS_zp_TT_xs_13TeV                          lnN     -               -               -               1.08            -               -               
+CMS_zp_VV_xs_13TeV                          lnN     -               -               -               -               1.15            -               
+CMS_zp_tt_tauTau_inclusive_13TeV_QCD_bin_10 shape   -               -               1               -               -               -               
+CMS_zp_tt_tauTau_inclusive_13TeV_QCD_bin_11 shape   -               -               1               -               -               -               
+CMS_zp_tt_tauTau_inclusive_13TeV_QCD_bin_12 shape   -               -               1               -               -               -               
+CMS_zp_tt_tauTau_inclusive_13TeV_QCD_bin_13 shape   -               -               1               -               -               -               
+CMS_zp_tt_tauTau_inclusive_13TeV_QCD_bin_14 shape   -               -               1               -               -               -               
+CMS_zp_tt_tauTau_inclusive_13TeV_QCD_bin_15 shape   -               -               1               -               -               -               
+CMS_zp_tt_tauTau_inclusive_13TeV_QCD_bin_16 shape   -               -               1               -               -               -               
+CMS_zp_tt_tauTau_inclusive_13TeV_QCD_bin_17 shape   -               -               1               -               -               -               
+CMS_zp_tt_tauTau_inclusive_13TeV_QCD_bin_7  shape   -               -               1               -               -               -               
+CMS_zp_tt_tauTau_inclusive_13TeV_QCD_bin_8  shape   -               -               1               -               -               -               
+CMS_zp_tt_tauTau_inclusive_13TeV_QCD_bin_9  shape   -               -               1               -               -               -               
+CMS_zp_tt_tauTau_inclusive_13TeV_ZTT_bin_18 shape   1               -               -               -               -               -               
+Close21                                     lnN     -               1.05            -               -               -               -               
+Close22                                     lnN     1.19            -               -               -               -               -               
+Close25                                     lnN     -               -               1.226           -               -               -               
+JES20                                       lnN     -               -               -               -               -               1.02            
+JES21                                       lnN     -               1.12            -               -               -               -               
+JES22                                       lnN     1.08            -               -               -               -               -               
+JES23                                       lnN     -               -               -               1.12            -               -               
+JES24                                       lnN     -               -               -               -               1.08            -               
+TES20                                       lnN     -               -               -               -               -               1.03            
+TES21                                       lnN     -               1.11            -               -               -               -               
+TES22                                       lnN     1.11            -               -               -               -               -               
+TES23                                       lnN     -               -               -               1.11            -               -               
+TES24                                       lnN     -               -               -               -               1.08            -               
+TaID00                                      lnN     1.12            -               -               -               -               1.12            
+TaID03                                      lnN     -               -               -               1.12            1.12            -               
+TaID11                                      lnN     -               1.3             -               -               -               -               
+Trig20                                      lnN     1.1             1.1             -               1.1             1.1             1.1             
+bID20                                       lnN     1.03            -               -               -               -               1.03            
+bID21                                       lnN     -               1.1             -               -               -               -               
+bID23                                       lnN     -               -               -               1.1             -               -               
+bID24                                       lnN     -               -               -               -               1.03            -               
