@@ -14,7 +14,7 @@ process                                             ZTT             W           
 process                                             1               2               3               4               5               0               
 rate                                                375.1           520.3           198.1           26.06           17.97           34.27           
 --------------------------------------------------------------------------------
-CMS_lumi_13TeV                              lnN     1.046           -               -               1.046           1.046           1.046           
+CMS_lumi_13TeV                              lnN     1.027           -               -               1.027           1.027           1.027           
 CMS_zp_TT_xs_13TeV                          lnN     -               -               -               1.08            -               -               
 CMS_zp_VV_xs_13TeV                          lnN     -               -               -               -               1.15            -               
 CMS_zp_ZTT_xs_13TeV                         lnN     1.1             -               -               -               -               -               
@@ -49,8 +49,8 @@ CMS_zp_scale_btag_13TeV                     shape   1               -           
 CMS_zp_scale_j_13TeV                        shape   1               -               -               1               1               1               
 CMS_zp_scale_t_13TeV                        shape   1               -               -               1               1               1               
 EES10                                       lnN     1.01            -               -               1.01            1.01            1.01            
-ElID10                                      lnN     1.05            -               -               -               -               1.05            
-ElID13                                      lnN     -               -               -               1.05            1.05            -               
+ElID10                                      lnN     1.06            -               -               -               -               1.06            
+ElID13                                      lnN     -               -               -               1.06            1.06            -               
 TaID00                                      lnN     1.06            -               -               -               -               1.06            
 TaID03                                      lnN     -               -               -               1.06            1.06            -               
 Trig10                                      lnN     1.01            -               -               1.01            1.01            1.01            
