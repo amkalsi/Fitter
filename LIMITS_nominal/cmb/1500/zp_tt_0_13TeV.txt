@@ -14,7 +14,7 @@ process                                             ZTT             W           
 process                                             1               2               3               4               5               0               
 rate                                                8.438           0.09357         48.72           0               0.4874          6.553           
 --------------------------------------------------------------------------------
-CMS_lumi_13TeV                              lnN     1.046           1.046           -               1.046           1.046           1.046           
+CMS_lumi_13TeV                              lnN     1.027           1.027           -               1.027           1.027           1.027           
 CMS_zp_TT_xs_13TeV                          lnN     -               -               -               1.08            -               -               
 CMS_zp_VV_xs_13TeV                          lnN     -               -               -               -               1.15            -               
 CMS_zp_tt_tauTau_inclusive_13TeV_QCD_bin_10 shape   -               -               1               -               -               -               

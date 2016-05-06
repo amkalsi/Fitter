@@ -14,7 +14,7 @@ process                                            ZTT             W            
 process                                            1               2               3               4               5               0               
 rate                                               882.4           905.3           121.8           26.12           29.17           7.222           
 --------------------------------------------------------------------------------
-CMS_lumi_13TeV                             lnN     1.046           -               -               1.046           1.046           1.046           
+CMS_lumi_13TeV                             lnN     1.027           -               -               1.027           1.027           1.027           
 CMS_zp_TT_xs_13TeV                         lnN     -               -               -               1.08            -               -               
 CMS_zp_VV_xs_13TeV                         lnN     -               -               -               -               1.15            -               
 CMS_zp_mt_muTau_inclusive_13TeV_W_bin_1    shape   -               1               -               -               -               -               
@@ -42,7 +42,7 @@ Close02                                    lnN     1.07            -            
 Close05                                    lnN     -               -               1.68            -               -               -               
 JES00                                      lnN     -               -               -               -               -               1.02            
 MMS00                                      lnN     1.01            -               -               1.01            1.01            1.01            
-MuID00                                     lnN     1.01            -               -               1.01            1.01            1.01            
+MuID00                                     lnN     1.07            -               -               1.07            1.07            1.07            
 TES00                                      lnN     -               -               -               -               -               1.03            
 TaID00                                     lnN     1.06            -               -               -               -               1.06            
 TaID03                                     lnN     -               -               -               1.06            1.06            -               

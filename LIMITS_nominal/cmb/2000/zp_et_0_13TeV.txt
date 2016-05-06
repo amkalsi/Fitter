@@ -12,53 +12,45 @@ observation  1113.0
 bin                                                 zp_et_0_13TeV   zp_et_0_13TeV   zp_et_0_13TeV   zp_et_0_13TeV   zp_et_0_13TeV   zp_et_0_13TeV   
 process                                             ZTT             W               QCD             TT              VV              ggH             
 process                                             1               2               3               4               5               0               
-rate                                                375.1           544.5           117.6           26.06           17.97           0.5929          
+rate                                                375.1           520.3           198.1           26.06           17.97           0.5929          
 --------------------------------------------------------------------------------
-CMS_lumi_13TeV                              lnN     1.046           1.046           -               1.046           1.046           1.046           
+CMS_lumi_13TeV                              lnN     1.027           -               -               1.027           1.027           1.027           
 CMS_zp_TT_xs_13TeV                          lnN     -               -               -               1.08            -               -               
 CMS_zp_VV_xs_13TeV                          lnN     -               -               -               -               1.15            -               
 CMS_zp_ZTT_xs_13TeV                         lnN     1.1             -               -               -               -               -               
 CMS_zp_et_QCD_LT_13TeV                      lnN     -               -               1.164           -               -               -               
 CMS_zp_et_W_LT_13TeV                        lnN     -               1.096           -               -               -               -               
-CMS_zp_et_eleTau_inclusive_13TeV_QCD_bin_10 shape   -               -               1               -               -               -               
-CMS_zp_et_eleTau_inclusive_13TeV_QCD_bin_11 shape   -               -               1               -               -               -               
-CMS_zp_et_eleTau_inclusive_13TeV_QCD_bin_12 shape   -               -               1               -               -               -               
-CMS_zp_et_eleTau_inclusive_13TeV_QCD_bin_13 shape   -               -               1               -               -               -               
-CMS_zp_et_eleTau_inclusive_13TeV_QCD_bin_14 shape   -               -               1               -               -               -               
-CMS_zp_et_eleTau_inclusive_13TeV_QCD_bin_15 shape   -               -               1               -               -               -               
-CMS_zp_et_eleTau_inclusive_13TeV_QCD_bin_17 shape   -               -               1               -               -               -               
-CMS_zp_et_eleTau_inclusive_13TeV_QCD_bin_18 shape   -               -               1               -               -               -               
-CMS_zp_et_eleTau_inclusive_13TeV_QCD_bin_6  shape   -               -               1               -               -               -               
-CMS_zp_et_eleTau_inclusive_13TeV_QCD_bin_7  shape   -               -               1               -               -               -               
-CMS_zp_et_eleTau_inclusive_13TeV_QCD_bin_8  shape   -               -               1               -               -               -               
-CMS_zp_et_eleTau_inclusive_13TeV_QCD_bin_9  shape   -               -               1               -               -               -               
 CMS_zp_et_eleTau_inclusive_13TeV_W_bin_10   shape   -               1               -               -               -               -               
 CMS_zp_et_eleTau_inclusive_13TeV_W_bin_11   shape   -               1               -               -               -               -               
 CMS_zp_et_eleTau_inclusive_13TeV_W_bin_12   shape   -               1               -               -               -               -               
 CMS_zp_et_eleTau_inclusive_13TeV_W_bin_13   shape   -               1               -               -               -               -               
 CMS_zp_et_eleTau_inclusive_13TeV_W_bin_14   shape   -               1               -               -               -               -               
+CMS_zp_et_eleTau_inclusive_13TeV_W_bin_15   shape   -               1               -               -               -               -               
+CMS_zp_et_eleTau_inclusive_13TeV_W_bin_16   shape   -               1               -               -               -               -               
+CMS_zp_et_eleTau_inclusive_13TeV_W_bin_17   shape   -               1               -               -               -               -               
+CMS_zp_et_eleTau_inclusive_13TeV_W_bin_18   shape   -               1               -               -               -               -               
 CMS_zp_et_eleTau_inclusive_13TeV_W_bin_7    shape   -               1               -               -               -               -               
 CMS_zp_et_eleTau_inclusive_13TeV_W_bin_8    shape   -               1               -               -               -               -               
+CMS_zp_et_eleTau_inclusive_13TeV_W_bin_9    shape   -               1               -               -               -               -               
 CMS_zp_et_eleTau_inclusive_13TeV_ZTT_bin_1  shape   1               -               -               -               -               -               
-CMS_zp_et_eleTau_inclusive_13TeV_ZTT_bin_15 shape   1               -               -               -               -               -               
+CMS_zp_et_eleTau_inclusive_13TeV_ZTT_bin_10 shape   1               -               -               -               -               -               
+CMS_zp_et_eleTau_inclusive_13TeV_ZTT_bin_14 shape   1               -               -               -               -               -               
 CMS_zp_et_eleTau_inclusive_13TeV_ZTT_bin_16 shape   1               -               -               -               -               -               
 CMS_zp_et_eleTau_inclusive_13TeV_ZTT_bin_2  shape   1               -               -               -               -               -               
 CMS_zp_et_eleTau_inclusive_13TeV_ZTT_bin_3  shape   1               -               -               -               -               -               
 CMS_zp_et_eleTau_inclusive_13TeV_ZTT_bin_4  shape   1               -               -               -               -               -               
 CMS_zp_et_eleTau_inclusive_13TeV_ZTT_bin_5  shape   1               -               -               -               -               -               
 CMS_zp_et_eleTau_inclusive_13TeV_ZTT_bin_6  shape   1               -               -               -               -               -               
+CMS_zp_et_eleTau_inclusive_13TeV_ZTT_bin_7  shape   1               -               -               -               -               -               
 CMS_zp_et_eleTau_inclusive_13TeV_ZTT_bin_9  shape   1               -               -               -               -               -               
-CMS_zp_id_t_13TeV                           shape   1               1               1               1               1               1               
+CMS_zp_id_t_13TeV                           shape   1               -               -               1               1               1               
 CMS_zp_pdf_13TeV                            shape   -               -               -               -               -               1               
-CMS_zp_scale_W_13TeV                        shape   1               1               1               1               1               -               
-CMS_zp_scale_btag_13TeV                     shape   1               1               1               1               1               1               
-CMS_zp_scale_j_13TeV                        shape   1               1               1               1               1               1               
-CMS_zp_scale_t_13TeV                        shape   1               1               1               1               1               1               
-EES10                                       lnN     1.01            1.01            -               1.01            1.01            1.01            
-ElID10                                      lnN     1.01            -               -               -               -               1.01            
-ElID11                                      lnN     -               1.01            -               -               -               -               
-ElID13                                      lnN     -               -               -               1.01            1.01            -               
+CMS_zp_scale_btag_13TeV                     shape   1               -               -               1               1               1               
+CMS_zp_scale_j_13TeV                        shape   1               -               -               1               1               1               
+CMS_zp_scale_t_13TeV                        shape   1               -               -               1               1               1               
+EES10                                       lnN     1.01            -               -               1.01            1.01            1.01            
+ElID10                                      lnN     1.06            -               -               -               -               1.06            
+ElID13                                      lnN     -               -               -               1.06            1.06            -               
 TaID00                                      lnN     1.06            -               -               -               -               1.06            
 TaID03                                      lnN     -               -               -               1.06            1.06            -               
-TaID11                                      lnN     -               1.06            -               -               -               -               
-Trig10                                      lnN     1.01            1.01            -               1.01            1.01            1.01            
+Trig10                                      lnN     1.01            -               -               1.01            1.01            1.01            
